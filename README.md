@@ -6,7 +6,7 @@ Jeremy's labs recreated in EVE-NG
 
 
 
-These are some of the labs from Jeremy's IT lab ENCOR course recreated in EVE-NG. All made using Cisco vIOS images (DO NOT ASK FOR IMAGES - be resourceful yourself). Full credit goes to Jeremy of course for making these labs in CML. He is simply the best Cisco instructor I have ever seen and if you are studying for the CCNA/CCNP you should absolutely watch his courses!
+These are some of the labs from Jeremy's IT lab ENCOR course recreated in EVE-NG. All made using Cisco vIOS images and a Linux Alpine virtual image (DO NOT ASK FOR IMAGES - be resourceful yourself). Full credit goes to Jeremy of course for making these labs in CML. He is simply the best Cisco instructor I have ever seen and if you are studying for the CCNA/CCNP you should absolutely watch his courses!
 
 
 
@@ -19,6 +19,8 @@ Images used:
 vios-adventerprisek9-m.spa.158-3.m2
 
 viosl2-adventerprisek9-m-v152\_6\_0\_81\_e-20190423
+
+alpine-virt-3.24.1-x86\_64
 
 
 
