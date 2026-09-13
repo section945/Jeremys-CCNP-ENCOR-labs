@@ -10,7 +10,7 @@ These are some of the labs from Jeremy's IT lab ENCOR course recreated in EVE-NG
 
 
 
-You obviously need to install EVE-NG and the client side tools first. Follow the official installation documentation from the website depending on your hardware or preferences. Once it's up and running you can start importing my lab files.
+You obviously need to install EVE-NG and the client side tools first. Follow the official installation documentation from the website depending on your hardware or preferences. Once it's up and running and you have the images installed you can start importing my lab files.
 
 
 
